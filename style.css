@@ -1,0 +1,92 @@
+* {
+	border-radius: 0px !important;
+}
+
+body {
+	background-color: #DADFE1 !important;
+}
+
+.main_container {
+	background-color: #fff;
+}
+
+.header_logo {
+	color: #1E824C;
+}
+
+.header_logo h1{
+	font-weight: bolder;
+	font-family: "Dosis";
+}
+
+.site_search{
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+.jumbotron {
+	background-image: url("https://source.unsplash.com/V5M3Hk5zmTs/1600x900");
+	background-size: cover;
+	/*background-position: center center;*/
+	height: 100%;
+}
+
+
+.block-text{
+	background-color: #16A085;
+	opacity: 0.8;
+	width: 50%;
+	font-family:  "Muli", "Arapey";
+}
+
+
+
+.block{
+	padding-bottom: 3%;
+	padding-top: 10%;
+}
+
+.block h3, .block p{
+	padding: 20px;
+	color: #fff;
+}
+
+.navbar {
+	background-color: #1E824C !important;
+}
+
+.services p{
+	font-size: 1.5em;
+	color:#000;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-family: "Josefin Sans";
+}
+
+.services h2{
+	font-family: "Muli";
+}
+
+
+.social, .links, .subscribe {
+	padding-left: 30px !important;
+	padding-right: 30px !important;
+}
+
+.footer{
+	background-color: #22313F;
+	font-family: "Raleway";
+}
+
+.footer p, .footer h3{
+	color:#1E824C;
+	font-weight: bolder;
+}
+
+
+.copyright {
+	padding: 20px;
+}
+
+
+
